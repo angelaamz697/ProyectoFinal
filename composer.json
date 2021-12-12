@@ -1,0 +1,21 @@
+{
+    "name": "angelamunoz/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "angela muñoz zunino",
+            "email": "angemz945@gmail.com"
+        }
+        
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "angelamunoz\\":"src/"
+        }
+    }
+}
